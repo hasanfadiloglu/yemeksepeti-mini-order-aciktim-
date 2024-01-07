@@ -1,0 +1,14 @@
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\bin\Debug\aciktimProje.exe.config
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\bin\Debug\aciktimProje.exe
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\bin\Debug\aciktimProje.pdb
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.csproj.AssemblyReference.cache
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.baslangic.resources
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.Properties.Resources.resources
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.exe
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.pdb
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.kayitEkrani.resources
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.shops.resources
+C:\Users\Hasan\source\repos\aciktimProje\aciktimProje\obj\Debug\aciktimProje.orders.resources
